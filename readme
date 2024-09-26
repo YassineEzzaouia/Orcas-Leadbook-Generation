@@ -1,0 +1,7 @@
+To install dependencies you must execute this command:
+    pip install openai docx pythoncom pywin32 configparser
+
+Clone the repos to your desktop then open the folder with vscode
+To launch the application you should simply execute the main.py file
+
+the output directory will contain the result of the execution
