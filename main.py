@@ -340,4 +340,4 @@ def generate_leadbook(input, presentation_data, economic_data, offers, summary_t
 
 # Running the Flask app
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host="0.0.0.0",port=8000)
