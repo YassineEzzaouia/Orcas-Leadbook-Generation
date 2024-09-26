@@ -1,0 +1,7 @@
+python==3.12.4
+Flask==2.3.3
+openai==0.27.8
+configparser==5.3.0
+python-docx==0.8.11
+pywin32==306
+pythoncom==2.7.10
